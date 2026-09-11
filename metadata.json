@@ -1,0 +1,6 @@
+{
+  "name": "Rapor Kurikulum Merdeka",
+  "description": "Aplikasi pembuatan, pengeditan, dan cetak rapor standar Kurikulum Merdeka SMP Negerin 7 Sentani/Sesuai Standar Nasional dengan format cetak A4/F4 presisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
